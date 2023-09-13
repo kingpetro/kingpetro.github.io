@@ -1,3 +1,3 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
+theme: jekyll-theme-minimal
+title: lpetro
+description: Bookmark this to keep an eye on my project updates!
